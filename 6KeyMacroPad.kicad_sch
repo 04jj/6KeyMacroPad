@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "46950438-c1e2-4f93-8965-9f517d745034")
 	(paper "A4")
+	(title_block
+		(title "6 Key Macropad ")
+		(rev "V1")
+	)
 	(lib_symbols
 		(symbol "Device:C_Small"
 			(pin_numbers hide)
@@ -5338,7 +5342,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 228.6 109.22 0)
 			(effects
 				(font
@@ -5474,7 +5478,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 115.57 0)
 			(effects
 				(font
@@ -5694,7 +5698,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 231.14 115.57 0)
 			(effects
 				(font
@@ -5782,7 +5786,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 217.17 115.57 0)
 			(effects
 				(font
@@ -5935,7 +5939,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 72.39 120.65 0)
 			(effects
 				(font
@@ -6005,7 +6009,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 201.93 44.45 0)
 			(effects
 				(font
@@ -6208,7 +6212,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 190.5 44.45 0)
 			(effects
 				(font
@@ -6351,7 +6355,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 96.52 0)
 			(effects
 				(font
@@ -6439,7 +6443,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 217.17 96.52 0)
 			(effects
 				(font
@@ -6527,7 +6531,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 231.14 96.52 0)
 			(effects
 				(font
@@ -6613,7 +6617,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 214.63 90.17 0)
 			(effects
 				(font
@@ -6680,7 +6684,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 153.67 57.15 0)
 			(effects
 				(font
@@ -6749,7 +6753,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 74.93 63.5 0)
 			(effects
 				(font
@@ -6961,7 +6965,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 93.98 63.5 0)
 			(effects
 				(font
@@ -7105,7 +7109,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 83.82 96.52 0)
 			(effects
 				(font
@@ -7250,7 +7254,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Type-C:HRO-TYPE-C-31-M-12-HandSoldering"
 			(at 50.8 109.22 0)
 			(effects
 				(font
@@ -7483,7 +7487,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 102.87 74.93 0)
 			(effects
 				(font
@@ -7550,7 +7554,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering"
 			(at 85.09 59.69 0)
 			(effects
 				(font
@@ -7626,7 +7630,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 236.22 44.45 0)
 			(effects
 				(font
@@ -7826,7 +7830,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 161.29 102.87 0)
 			(effects
 				(font
@@ -7896,7 +7900,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 111.76 43.18 0)
 			(effects
 				(font
@@ -7964,7 +7968,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 228.6 90.17 0)
 			(effects
 				(font
@@ -8360,7 +8364,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 214.63 109.22 0)
 			(effects
 				(font
@@ -8428,7 +8432,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 199.39 109.22 0)
 			(effects
 				(font
@@ -8498,7 +8502,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 213.36 44.45 0)
 			(effects
 				(font
@@ -8633,7 +8637,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 67.31 120.65 0)
 			(effects
 				(font
@@ -8776,7 +8780,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 110.49 77.47 0)
 			(effects
 				(font
@@ -8920,7 +8924,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_SKQG_WithStem"
 			(at 99.06 44.45 0)
 			(effects
 				(font
@@ -8988,7 +8992,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 199.39 90.17 0)
 			(effects
 				(font
@@ -9058,7 +9062,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 109.22 85.09 0)
 			(effects
 				(font
@@ -9128,7 +9132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 224.79 44.45 0)
 			(effects
 				(font

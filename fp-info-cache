@@ -1,4 +1,18 @@
-24266404907825569
+24271561670837139
+6KeyMacroPad
+jjkpdlogo
+
+
+0
+0
+0
+6KeyMacroPad
+jjkpdlogov2
+
+
+0
+0
+0
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99049,6 +99063,13 @@ Varistor VF
 0
 2
 2
+jjkpdlogo
+F.SilkS_layer1
+
+
+0
+0
+0
 kicad-keyboard-parts
 CP_EIA-3216-18_Kemet-A_stealth
 Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator

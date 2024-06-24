@@ -509,10 +509,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "Manufacturing/",
+      "pos_files": "Manufacturing/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "6KeyMacroPad.step",
       "svg": "",
       "vrml": ""
     },

@@ -81,13 +81,13 @@
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(pcbplotparams
-			(layerselection 0x00010fc_ffffffff)
+			(layerselection 0x00010f0_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
-			(usegerberattributes yes)
-			(usegerberadvancedattributes yes)
-			(creategerberjobfile yes)
+			(usegerberattributes no)
+			(usegerberadvancedattributes no)
+			(creategerberjobfile no)
 			(dashed_line_dash_ratio 12.000000)
 			(dashed_line_gap_ratio 3.000000)
 			(svgprecision 4)
@@ -113,9 +113,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "Manufacturing/")
 		)
 	)
 	(net 0 "")
@@ -840,7 +840,7 @@
 		)
 		(fp_arc
 			(start 1.699999 4.377156)
-			(mid 1.712525 4.26593)
+			(mid 1.712526 4.26593)
 			(end 1.749484 4.160279)
 			(stroke
 				(width 0.1)
@@ -862,7 +862,7 @@
 		)
 		(fp_arc
 			(start 1.749484 5.999719)
-			(mid 1.712517 5.89407)
+			(mid 1.712511 5.89407)
 			(end 1.699999 5.782841)
 			(stroke
 				(width 0.1)
@@ -1952,7 +1952,7 @@
 		)
 		(fp_arc
 			(start 1.699999 4.377156)
-			(mid 1.712525 4.26593)
+			(mid 1.712526 4.26593)
 			(end 1.749484 4.160279)
 			(stroke
 				(width 0.1)
@@ -1974,7 +1974,7 @@
 		)
 		(fp_arc
 			(start 1.749484 5.999719)
-			(mid 1.712517 5.89407)
+			(mid 1.712511 5.89407)
 			(end 1.699999 5.782841)
 			(stroke
 				(width 0.1)
@@ -3064,7 +3064,7 @@
 		)
 		(fp_arc
 			(start 1.699999 4.377156)
-			(mid 1.712525 4.26593)
+			(mid 1.712526 4.26593)
 			(end 1.749484 4.160279)
 			(stroke
 				(width 0.1)
@@ -3086,7 +3086,7 @@
 		)
 		(fp_arc
 			(start 1.749484 5.999719)
-			(mid 1.712517 5.89407)
+			(mid 1.712511 5.89407)
 			(end 1.699999 5.782841)
 			(stroke
 				(width 0.1)
@@ -4176,7 +4176,7 @@
 		)
 		(fp_arc
 			(start 1.699999 4.377156)
-			(mid 1.712525 4.26593)
+			(mid 1.712526 4.26593)
 			(end 1.749484 4.160279)
 			(stroke
 				(width 0.1)
@@ -4198,7 +4198,7 @@
 		)
 		(fp_arc
 			(start 1.749484 5.999719)
-			(mid 1.712517 5.89407)
+			(mid 1.712511 5.89407)
 			(end 1.699999 5.782841)
 			(stroke
 				(width 0.1)
@@ -4596,7 +4596,7 @@
 		)
 		(fp_arc
 			(start 1.699999 4.377156)
-			(mid 1.712525 4.26593)
+			(mid 1.712526 4.26593)
 			(end 1.749484 4.160279)
 			(stroke
 				(width 0.1)
@@ -4618,7 +4618,7 @@
 		)
 		(fp_arc
 			(start 1.749484 5.999719)
-			(mid 1.712517 5.89407)
+			(mid 1.712511 5.89407)
 			(end 1.699999 5.782841)
 			(stroke
 				(width 0.1)
@@ -7092,7 +7092,7 @@
 		)
 		(fp_arc
 			(start 1.699999 4.377156)
-			(mid 1.712525 4.26593)
+			(mid 1.712526 4.26593)
 			(end 1.749484 4.160279)
 			(stroke
 				(width 0.1)
@@ -7114,7 +7114,7 @@
 		)
 		(fp_arc
 			(start 1.749484 5.999719)
-			(mid 1.712517 5.89407)
+			(mid 1.712511 5.89407)
 			(end 1.699999 5.782841)
 			(stroke
 				(width 0.1)
@@ -15986,6 +15986,19 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "f8b90fe5-1e25-4db3-91dc-91b3ff30300a")
+	)
+	(gr_text "V1.0"
+		(at 195.6 118.6 0)
+		(layer "F.SilkS")
+		(uuid "baffeec5-64b7-41ae-9641-08802ec67ed1")
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.1905)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 182 108.5)

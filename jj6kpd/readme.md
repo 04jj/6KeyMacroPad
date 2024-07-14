@@ -12,7 +12,7 @@ Make example for this keyboard (after setting up your build environment):
 
     make jj6kpd:default
 
-* For via support make sure to compile via keymap
+* For via support make sure to compile via keymap (to use via go into the design tab and upload via.json to start editing)
 
 Flashing example for this keyboard:
 

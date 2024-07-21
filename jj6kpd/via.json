@@ -2,6 +2,7 @@
     "name": "jj6kpd",
     "productId": "0x0000",
     "vendorId": "0xFF12",
+    "menus": ["qmk_rgb_matrix" ],
     "matrix": {
         "rows": 2,
         "cols": 3
